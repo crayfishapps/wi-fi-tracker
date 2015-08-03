@@ -1,4 +1,6 @@
 # wi-fi-tracker
-Source code of wi-fi-tracker.appspot.com
-This is a Google App Engine application developed in Java using Netbeans.
-Read more about it at www.crayfishapps.com
+* Cloud application for a Wi-Fi tracker based on the Raspberry Pi
+* Visit [wi-fi-tracker.appspot.com] (wi-fi-tracker.appspot.com)
+* Cloud application based on Google App Engine
+* Developed in Java using Netbeans
+* Read more about it at www.crayfishapps.com
